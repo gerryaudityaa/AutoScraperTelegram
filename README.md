@@ -4,7 +4,15 @@
 
 Tired of manual data collection? Need real-time insights delivered straight to your Telegram? Look no further!
 
-**AutoScraper Telegram** offers custom-built web scraping solutions integrated directly with Telegram. Get the data you need, when you need it, with effortless automation. From monitoring competitors to tracking prices, collecting market data, or automating routine reports, we craft intelligent bots to fetch exactly what you require from any website.
+**AutoScraper Telegram** is a custom web scraping bot that automates data extraction from any website and delivers it directly to your Telegram chat in organized formats like Excel. Get real-time, automated data collection for reports, market monitoring, and more.
+
+## 🚀 See It in Action!
+
+Watch a quick demo of AutoScraper Telegram in action:
+
+![AutoScraper Telegram Demo](demo.gif)
+
+---
 
 ## ✨ Why AutoScraper Telegram?
 
@@ -14,7 +22,7 @@ Tired of manual data collection? Need real-time insights delivered straight to y
 * **Reliable & Secure:** Built with robust technologies like Selenium and Python, designed for stability and ethical scraping practices.
 * **Data Transformation:** We don't just scrape; we clean, format, and structure your data into ready-to-use Excel, CSV, or JSON files.
 
-## 🚀 How It Works
+## ⚙️ How It Works
 
 1.  **Consultation:** Share your data needs and the target website. We'll discuss the complexity and suggest the best approach.
 2.  **Development:** Our experts build a custom web scraper that can handle logins, captchas, dynamic content, and more.
@@ -25,12 +33,12 @@ Tired of manual data collection? Need real-time insights delivered straight to y
 
 We offer flexible packages to match your project's complexity and budget.
 
-| Package       | Main Features                                                    | Difficulty | Output            | Time Est.   | Price (USD) |
-| :------------ | :--------------------------------------------------------------- | :--------- | :---------------- | :---------- | :---------- |
-| **BASIC** | Static HTML website scraping, No login, Simple data structure    | Easy       | CSV/JSON          | 1-2 days    | $15-25      |
-| **STANDARD** | Scraping with login, Pagination/infinite scroll, Basic search forms | Medium     | Excel/Database    | 2-4 days    | $35-65      |
-| **PRO** | Dynamic (JS-heavy) websites, CAPTCHA/anti-bot bypass, Headless browser automation | Hard       | Excel + Automation| 5-7 days    | $85-220     |
-| **CUSTOM/API**| API reverse engineering, Complex data parsing, Internal tools integration | Advanced   | Custom            | Negotiable  | $220+       |
+| Package | Main Features | Difficulty | Output | Time Est. | Price (USD) |
+| :------ | :------------ | :--------- | :----- | :-------- | :---------- |
+| **BASIC** | Static HTML website scraping, No login, Simple data structure | Easy | CSV/JSON | 1-2 days | $15-25 |
+| **STANDARD** | Scraping with login, Pagination/infinite scroll, Basic search forms | Medium | Excel/Database | 2-4 days | $35-65 |
+| **PRO** | Dynamic (JS-heavy) websites, CAPTCHA/anti-bot bypass, Headless browser automation | Hard | Excel + Automation | 5-7 days | $85-220 |
+| **CUSTOM/API** | API reverse engineering, Complex data parsing, Internal tools integration | Advanced | Custom | Negotiable | $220+ |
 
 ### Add-On Services
 
